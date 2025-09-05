@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "hello world"
-echp "new file"
+echo "new japan"
